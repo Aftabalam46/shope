@@ -1,0 +1,90 @@
+.card{
+    border: 1px solid lightgray;
+    padding: 12px;
+    margin: 12px;
+    border-radius: 12px;
+
+    
+}
+
+.product-contant{
+    
+    display: flex;
+    
+}
+
+.product{
+    height: 270px;
+    width: 180px;
+    border-radius: 12px;
+    object-fit: cover;
+}
+.m-2{
+    margin-left: 15px;
+    margin-bottom: 15px;
+    
+}
+.color{
+    color: gray;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 10px;
+}
+.btn2{
+    border: 2px solid black;
+    text-decoration: none;
+    color: black;
+    background-color:white;
+    border-radius: 4px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.off{
+    display: inline;
+    border-radius: 4px;
+    background-color: orange;
+    color: white;
+    padding:  5px 5px 5px 5px;
+    
+}
+
+.code{
+    border:2px dashed black;
+    display: inline;
+    border-radius: 4px;
+    background-color:white;
+    color:orange;
+    padding:  5px 5px 5px 5px;
+    
+}
+/* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;500;900&display=swap');
+
+*{
+    font-family: 'Outfit', sans-serif;
+}
+
+.hero{
+    color:white;
+    background-image: url('/photo.jpeg');
+    height: 1000px;
+    background-size: 500px;
+    text-align: center;
+    padding-top:300px;
+}
+p{
+    font-size: 50px;
+}
+.alam{
+    color: white;
+    text-decoration: none;
+    border: 2px;
+    border-radius: 5px;
+    background-color: black;
+    padding: 50px 50px 50px 50px;
+} */
